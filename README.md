@@ -26,7 +26,7 @@ No more terminal commands — everything is organized, readable, and interactive
 ## Installation
 
 ```bash
-
+wget https://github.com/HernanRodriguez1/SQLMap-Inject-Suite-Pro/releases/download/Releases/InjectSuitePro
 ````
 
 > **Requirements:**
@@ -40,8 +40,8 @@ No more terminal commands — everything is organized, readable, and interactive
 ## Usage
 
 ```bash
-chmod +x test
-./test
+chmod +x InjectSuitePro
+./InjectSuitePro
 ```
 
 
